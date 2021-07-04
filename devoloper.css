@@ -15,6 +15,7 @@ section{
     display: flex;
     margin: 5px;
     padding: 5px;
+    margin-bottom: 50px;
 }
 p{
     font-style: bold;
@@ -38,6 +39,45 @@ p{
     color: darkgray;
     font-weight: 600;
 }
-.top-banner{background-image: url(images/tp.png);
-background-repeat: no-repeat;
+.top-banner
+    {background-image: url(images/tp.png);
+    background-repeat: no-repeat;
+}
+.dream-big
+    {
+     display: flex;   
+     padding: 5px;
+     margin: 5px;
+     background-image: url();
+    }
+h1
+    {
+     font-size: 50;
+     color: brown;
+    }
+h2
+    {
+    font-size: 30;
+
+
+    }
+span{
+    color:cadetblue;
+}
+.cutting{
+    width:50% ;
+    padding:4% ;
+    margin: 2%;
+}
+.cutting img{
+    width: 80%;
+
+}
+.koria{
+    width: 50%;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
