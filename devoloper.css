@@ -11,7 +11,7 @@ h1{
 span{
     color: orange;
 }
-section{
+.flexible-containers{
     display: flex;
     margin: 5px;
     padding: 5px;
@@ -43,7 +43,7 @@ p{
     {background-image: url(images/tp.png);
     background-repeat: no-repeat;
 }
-.dream-big
+.flexible-containers
     {
      display: flex;   
      padding: 5px;
@@ -85,4 +85,8 @@ span{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.width-50{
+    width: 50%;
+
 }
