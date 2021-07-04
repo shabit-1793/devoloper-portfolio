@@ -57,7 +57,7 @@ h1
     }
 h2
     {
-    font-size: 30;
+    font-size: 40;
 
 
     }
@@ -89,4 +89,33 @@ span{
 .width-50{
     width: 50%;
 
+}
+.color{
+    color: gold;
+}
+.box-shadow{
+    box-shadow: rgb(218, 151, 7) 10px 10px 10px 10px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.pad{border-left: 10px solid;
+     border-color: rgb(206, 128, 10);
+    border-image-slice: 1;
+    
+    
+}
+.pat{
+    border-left: 5px solid;
+     border-color: coral;
+border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
+    color: rgb(255, 60, 0);
 }
